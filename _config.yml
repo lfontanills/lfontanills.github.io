@@ -29,7 +29,7 @@ github_username:  lfontanills
 linkedin_username: lfontanills
 
 # Build settings
-remote_theme: pages-themes/minimal@v0.2.0
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
