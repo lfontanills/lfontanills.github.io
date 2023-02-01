@@ -27,14 +27,10 @@ Now, I'm making data my career. Check out the links below to see how I'm applyin
 
 ***
 
-<sub><sup>1</sup> The layers have different densities, and one of them is liquid!</sub>
-
-<sub><sup>2</sup> Heart rate goes up when you exercise and back down when you rest, otherwise you're gonna have a bad time.</sub>
-
-<sub><sup>3</sup> Bacteria. Fertilizer. Heavy metals.</sub>
-
-<sub><sup>4</sup> Between 3 and 4 big bags of sand I'd bought on Amazon.></sub>
-
+<sub><sup>1</sup> The layers have different densities, and one of them is liquid!</sub> <br>
+<sub><sup>2</sup> Heart rate goes up when you exercise and back down when you rest. Otherwise you're gonna have a bad time.</sub> <br>
+<sub><sup>3</sup> Bacteria. Fertilizer. Heavy metals.</sub><br>
+<sub><sup>4</sup> Between 3 and 4 big bags of sand I'd bought on Amazon.</sub><br>
 <sub><sup>5</sup> It can't.</sub>
 
 
