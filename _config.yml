@@ -9,9 +9,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Portfolio"
+title                    : "Laura Maria Fontanills"
 # title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Data Projects"
 name                     : "Laura Maria Fontanills"
 description              : "A collection of my data projects"
 url                      : lfontanills.github.io
@@ -23,7 +23,7 @@ masthead_title           : # overrides the website title displayed in the masthe
 
 # Site Author
 author:
-  name             : "Laura Maria Fontanills"
+  # name             : "Laura Maria Fontanills"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : # "I am an **amazing** person."
   location         : "Atlanta, GA"
