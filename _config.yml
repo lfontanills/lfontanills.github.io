@@ -24,7 +24,7 @@ masthead_title           : # overrides the website title displayed in the masthe
 # Site Author
 author:
   # name             : "Laura Maria Fontanills"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "assets/images/IMG_1844-1.JPG"
   bio              : # "I am an **amazing** person."
   location         : "Atlanta, GA"
   email            :
