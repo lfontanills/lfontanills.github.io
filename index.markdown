@@ -17,7 +17,7 @@ Now, I'm making data my career. Check out the links below to see how I'm applyin
 
 #### Projects:
 
-[Understanding LEGO sets popularity] (https://app.datacamp.com/workspace/w/d7aab8f8-f309-463e-b240-155b7327c676/edit)
+[Understanding LEGO sets popularity](https://app.datacamp.com/workspace/w/d7aab8f8-f309-463e-b240-155b7327c676/edit)
 
 * PostgreSQL, relational databases
 
