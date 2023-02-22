@@ -19,7 +19,7 @@ Now, I'm making data my career. Check out the links below to see how I'm applyin
 
 [Analyzing International Primary Education Expenditure since 2010](https://github.com/lfontanills/world-bank-education)
 
-* Exploratory data analysis with BigQuery (SQL), [data summary with Google Sheets](https://docs.google.com/spreadsheets/d/1oEpFithaO01ZUOr5YsnYLGW-5p0qMJ65fumdGoLV560/edit?usp=sharing)
+* Exploratory data analysis with BigQuery (SQL) and [Google Sheets](https://docs.google.com/spreadsheets/d/1oEpFithaO01ZUOr5YsnYLGW-5p0qMJ65fumdGoLV560/edit?usp=sharing)
 
 
 [Top posts on Reddit's r/science](https://rpubs.com/lfontanills/reddit_science_report)
