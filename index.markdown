@@ -29,7 +29,7 @@ Now, I'm making data my career. Check out the links below to see how I'm applyin
 
 [How cyclists use Divvy differently](https://rpubs.com/lfontanills/bikeshare)
 
-* Exploratory data analysis with R, A/B analysis with R
+* Exploratory data analysis with R
 
 ***
 
