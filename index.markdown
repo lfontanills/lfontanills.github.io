@@ -17,17 +17,19 @@ Now, I'm making data my career. Check out the links below to see how I'm applyin
 
 #### Projects:
 
+[Analyzing International Primary Education Expenditure since 2010](https://github.com/lfontanills/world-bank-education)
+
+* Exploratory data analysis with BigQuery (SQL), [data summary with Google Sheets](https://docs.google.com/spreadsheets/d/1oEpFithaO01ZUOr5YsnYLGW-5p0qMJ65fumdGoLV560/edit?usp=sharing)
+
+
 [Top posts on Reddit's r/science](https://rpubs.com/lfontanills/reddit_science_report)
 
 * Web scraping with Python, text mining with R
 
-[Understanding LEGO sets popularity](https://app.datacamp.com/workspace/w/d7aab8f8-f309-463e-b240-155b7327c676/edit)
-
-* Querying a relational databases, analysis with SQL
 
 [How cyclists use Divvy differently](https://rpubs.com/lfontanills/bikeshare)
 
-* Exploratory data analysis with R
+* Exploratory data analysis with R, A/B analysis with R
 
 ***
 
